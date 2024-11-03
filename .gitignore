@@ -1,0 +1,5 @@
+**/[Tt]est*
+**/data
+*.keras
+**/models
+**/__pycache__
